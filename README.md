@@ -1,10 +1,10 @@
-# AI Financial Tracker 🧠💰
+# AI Financial Tracker 💰
 
-**An intelligent and personalized financial management web application built with Flask and Python, tailored for Indian users.**
+**Trying to build Financial Language Passer tailored for Indian users.**
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 
 **AI Financial Tracker** is a Flask-based web application that helps users manage their finances through:
@@ -85,7 +85,7 @@ Access at `http://localhost:5000`
 - 🏦 Debt payoff optimization (Avalanche/Snowball methods)
 - 🚨 Emergency fund advisor
 
-## 🔧 Technical Stack
+##  Technical Stack
 
 - **Backend**: Python/Flask
 - **Database**: SQLite
@@ -146,7 +146,7 @@ AI_Financial_Tracker/
 - Emergency fund calculator
 
 
-## 🧠 Sample Categories
+## Sample Categories
 
 ### Expense Categories:
 - **Food**: groceries, snacks, dhaba, kirana, sabji, panipuris, sweets
@@ -166,7 +166,7 @@ AI_Financial_Tracker/
 
 ---
 
-## 🔮 Planned Smart Features (In Development)
+## Planned Smart Features (In Development)
 
 - NLP parsing of free-text transaction inputs (e.g., "Bought samosas for ₹50")
 - Statistical budget forecasting
@@ -177,7 +177,7 @@ AI_Financial_Tracker/
 
 ---
 
-## 📦 Requirements
+##  For Installing Requirements
 
 To install all dependencies:
 
@@ -194,7 +194,7 @@ Main Python packages used:
 
 ## 👤 Author
 
-**Anshuman Baghamare** – Final-year B.Tech (CSE - AI & DS) student passionate about AI-powered productivity tools and intelligent assistants.
+**Anshuman Baghamare** – B.Tech (AI & DS) Passionate about AI-powered productivity tools and intelligent assistants.
 
 ---
 
@@ -205,12 +205,6 @@ Main Python packages used:
 - Integration with UPI and banking APIs (mock or real)
 - Multi-user support
 - PDF export for tax or sharing
-
----
-
-## 📜 License
-
-This project is under open development by Anshu ji for academic and personal use. Licensing terms may be added post completion.
 
 ---
 
