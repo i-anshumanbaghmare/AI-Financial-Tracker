@@ -1,6 +1,6 @@
 # AI Financial Tracker 💰
 
-**Trying to build Financial Language Passer tailored for Indian users.**
+**Trying to build Financial Language Passer tailored for Indian user's Personal.**
 
 ---
 
