@@ -1,6 +1,6 @@
 # AI Financial Tracker 💰
 
-**Trying to build Financial Language Passer tailored for Indian user's Personal.**
+**Trying to build Financial Language Passer tailored for Indian user's Personal and Use it to create AI Financial Assistant.**
 
 ---
 
@@ -15,16 +15,16 @@
 
 ---
 
-It is a personalized financial assistant built using Python and Flask. It lets users:
-- Input transactions manually or using **natural language**
-- Automatically **categorize** expenses and income using fuzzy keyword matching
+It is a personalized financial assistant built using Regular Expressions and Flask. It lets users:
+- Input transactions manually or using **natural guided language**
+- Automatically **categorize** expenses and income using fuzzy keyword matching.
 - Track and analyze **budgets, debts, savings**, and **goals**
-- Generate **data-driven insights** using rule-based and statistical models
+- Suggest **data-driven insights** using rule-based and statistical models
 
 
 
 ---
-This repository includes the foundational logic for transaction categorization, which plays a central role in organizing user data for budgeting, analysis, and intelligent recommendations.
+This repository includes the foundational logic for RegEx rules and transaction categorization, which plays a central role in organizing user data for budgeting, analysis, and intelligent recommendations.
 
 ---
 
@@ -57,7 +57,7 @@ Access at `http://localhost:5000`
 
 ## 🛠️ Core Features
 
-### 1. Natural Language Processing
+### 1. Lite Natural Language Processing
 - Process text inputs like "Paid ₹1500 for groceries yesterday"
 - Extract transaction details (amount, category, date)
 - Support for Indian context and terminology
@@ -77,26 +77,26 @@ Access at `http://localhost:5000`
 - Real-time transaction processing
 - Transaction history display
 
-### Financial Intelligence
+### Financial Assistant
 ---
 - 📈 Budget forecasting with confidence intervals
-- 💼 Investment portfolio recommendations
+- 💼 Investment recommendations
 - 🎯 Savings goal probability calculator
 - 🏦 Debt payoff optimization (Avalanche/Snowball methods)
 - 🚨 Emergency fund advisor
 
 ##  Technical Stack
 
-- **Backend**: Python/Flask
+- **Backend**: Regular Expressions + Flask
 - **Database**: SQLite
-- **Frontend**: HTML/Templates
+- **Frontend**: Flask
 - **Testing**: Python unittest
 
 
 ### Project Dependencies
 - Flask
 - SQLite3
-- Python 3.x
+- Python 3.11
 
 
 ## 📂 Folder Structure (Planned)
@@ -211,9 +211,5 @@ Main Python packages used:
 ## 🙏 Acknowledgements
 
 - Guide by **Prof. Uma Vishwakarma**
-- `fuzzywuzzy` for smart matching
-- Indian financial norms and real-world needs as inspiration
-- OpenAI’s ChatGPT for co-piloting the logic and documentation
-
 ---
 
